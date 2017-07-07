@@ -1,0 +1,24 @@
+{
+  "name": "buffer-diff",
+  "version": "1.0.0",
+  "description": "Diffing utility to diff and patch node (or similar) buffers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gideonthomas/node-buffer-diff.git"
+  },
+  "keywords": [
+    "buffer",
+    "diff",
+    "patch"
+  ],
+  "author": "Gideon Thomas <gideon@mozillafoundation.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gideonthomas/node-buffer-diff/issues"
+  },
+  "homepage": "https://github.com/gideonthomas/node-buffer-diff#readme"
+}
